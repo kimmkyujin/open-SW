@@ -1,2 +1,3 @@
 # open-SW
-연습
+My first GitHub reporitory
+Modification
